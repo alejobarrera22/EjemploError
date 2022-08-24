@@ -1,2 +1,3 @@
 # EjemploError
-Error producido por Leo
+este es un ejemplo de error de github para practicar
+
